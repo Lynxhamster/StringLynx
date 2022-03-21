@@ -32,7 +32,7 @@ By @Lynxhamsters
             InlineKeyboardButton("ʜᴇʟᴘ ", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("ɪɴғᴏ ʙᴏᴛ ʟᴀɪɴ", url="https://t.me/LynxSupports")],
+        [InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/LynxSupports")],
     ]
 
     # Help Message
