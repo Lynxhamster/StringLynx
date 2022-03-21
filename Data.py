@@ -29,7 +29,7 @@ By @Lynxhamsters
         [InlineKeyboardButton("🔥 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ 🔥", callback_data="generate")],
         [InlineKeyboardButton("ᴍᴀɪɴᴛᴀɴᴇᴅ ʙʏ", url="https://t.me/Lynxhamsters")],
         [
-            InlineKeyboardButton("ᴄᴀʀᴀ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ sᴀʏᴀ ❔", callback_data="help"),
+            InlineKeyboardButton("ʜᴇʟᴘ ", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
         [InlineKeyboardButton("ɪɴғᴏ ʙᴏᴛ ʟᴀɪɴ", url="https://t.me/LynxSupports")],
@@ -53,7 +53,7 @@ By @Lynxhamsters
 
 Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @ZeroTwoStringbot
 
-Group Support : [ɢᴀʙᴜɴɢ](https://t.me/LynxSupports)
+Group Support : [LynxSupports](https://t.me/LynxSupports)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
