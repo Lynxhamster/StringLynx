@@ -14,7 +14,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 <p align="center">
 <a href="https://dashboard.heroku.com/new?template=https://github.com/Lynxhamster/StringLynx"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
-<a href="https://telegram.dog/XTZ_HerokuBot?start=bXVoYW1tYWRyaXpreTE2L1N0cmluZ0t5eSBtYXN0ZXI"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
+<a href="https://telegram.dog/XTZ_HerokuBot?start=THlueGhhbXN0ZXIvU3RyaW5nTHlueCBtYXN0ZXI"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 
 ### Local Deploying
