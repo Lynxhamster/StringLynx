@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://t.me/LynxSupports"><img src="https://telegra.ph/file/c82226ca027628d416003.jpg" width="2000"></a></p>
+<p align="center"><a href="https://t.me/LynxSupports"><img src="https://telegra.ph/file/6e13731708a6b0e671a33.png" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
